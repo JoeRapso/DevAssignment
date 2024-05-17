@@ -1,0 +1,28 @@
+C:\My Projects\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.exe
+C:\My Projects\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.deps.json
+C:\My Projects\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.runtimeconfig.json
+C:\My Projects\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.dll
+C:\My Projects\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.pdb
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.AssemblyInfoInputs.cache
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.AssemblyInfo.cs
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.csproj.CoreCompileInputs.cache
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.dll
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\refint\QuestionTwo.dll
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.pdb
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.genruntimeconfig.cache
+C:\My Projects\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\ref\QuestionTwo.dll
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.exe
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.deps.json
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.runtimeconfig.json
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.dll
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\bin\Debug\net8.0\QuestionTwo.pdb
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.AssemblyInfoInputs.cache
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.AssemblyInfo.cs
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.csproj.CoreCompileInputs.cache
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.dll
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\refint\QuestionTwo.dll
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.pdb
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\QuestionTwo.genruntimeconfig.cache
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\Question2\obj\Debug\net8.0\ref\QuestionTwo.dll

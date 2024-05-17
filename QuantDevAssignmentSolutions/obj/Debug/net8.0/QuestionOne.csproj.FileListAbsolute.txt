@@ -1,0 +1,28 @@
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.exe
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.deps.json
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.runtimeconfig.json
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.dll
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.pdb
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.AssemblyInfoInputs.cache
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.AssemblyInfo.cs
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.csproj.CoreCompileInputs.cache
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.dll
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\refint\QuestionOne.dll
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.pdb
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.genruntimeconfig.cache
+C:\My Projects\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\ref\QuestionOne.dll
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.exe
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.deps.json
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.runtimeconfig.json
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.dll
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\bin\Debug\net8.0\QuestionOne.pdb
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.AssemblyInfoInputs.cache
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.AssemblyInfo.cs
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.csproj.CoreCompileInputs.cache
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.dll
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\refint\QuestionOne.dll
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.pdb
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\QuestionOne.genruntimeconfig.cache
+C:\Users\joera\Desktop\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\QuantDevAssignmentSolutions\obj\Debug\net8.0\ref\QuestionOne.dll
